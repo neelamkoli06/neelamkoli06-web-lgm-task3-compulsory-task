@@ -1,3 +1,26 @@
+Deployed App:- https://neelamkoli06-web-lgm-task3-compulsory-task.vercel.app/
+
+preview:-
+
+
+![Screenshot 2022-02-12 at 4 58 43 PM](https://user-images.githubusercontent.com/85050864/153709825-7bebd3bb-11b3-4e40-80ad-495b9ffc13c9.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
